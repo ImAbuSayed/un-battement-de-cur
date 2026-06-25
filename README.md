@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-battement-de-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Un Battement De Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-battement-de-cur/) |
+| **Get License** | [Request Licensing for Un Battement De Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-battement-de-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4335)
 
 ---
 
