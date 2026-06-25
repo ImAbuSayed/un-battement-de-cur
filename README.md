@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-battement-de-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Un Battement De Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-battement-de-cur/) |
+| **Get License** | [Request Licensing for Un Battement De Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-battement-de-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai le cœur qui bat fort quand tu croises mon chemin
+> Dans la nuit parisienne, tu me tiens par la main
+> We can rule the city, baby, sous les néons dorés
+> Un battement de cœur, et je suis à tes côtés
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
